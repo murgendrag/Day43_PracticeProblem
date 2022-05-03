@@ -3,19 +3,20 @@ body {
 }
 
 
-    .headerContainer {
+.headerContainer {
         display: flex; 
         flex-flow: column wrap;
         align-content: center; 
         background: tomato;
         font-weight: bold;
+        padding: 10px;
     }
 
     .footerContainer{
         display: flex;
         flex-flow: column wrap;
         align-content: center;  
-        background: Dlightgreen;
+        background: lightgreen;
         font-weight: bold;
         padding: 10px; 
     }
